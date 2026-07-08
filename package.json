@@ -1,8 +1,8 @@
 {
   "name": "collaborative-white-board",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Professional collaborative whiteboard with pages and tools",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
